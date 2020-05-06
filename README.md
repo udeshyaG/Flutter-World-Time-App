@@ -1,1 +1,1 @@
-![](images/homescreen.png)
+![](images/homescreen.png)  ![](images/location.png)
